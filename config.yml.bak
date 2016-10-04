@@ -1,0 +1,9 @@
+email_account: your_email_address@example.com
+email_password: your_password
+email_recipient: email_address_of_recipient@example.com
+
+prices:  # Nemonic: price
+  - ABC: 114.0
+  - AISAC: 4.7
+  - ELEC1: 3.5
+  - BVVNI1: 3.2
